@@ -8,6 +8,6 @@ Bootstrsap, react, vanilla css, React hooks
 
 ### Feature
 
-- Mohon
-- Bipul
-- Rakib 
+- Develop website easily.
+- Programmer hair.
+- Make website
