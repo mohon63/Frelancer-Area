@@ -1,4 +1,5 @@
 import React from 'react';
+import '../Header/Header.css'
 
 const Header = () => {
     return (
@@ -28,7 +29,12 @@ const Header = () => {
             </header >
 
             <div className="container">
+                <div className="store-name d-flex justify-content-center mb-2">
+                    <h1 className="text-center mt-3 fw-bold">Freelancer<span className="text-primary"> Area</span></h1>
+                </div>
                 <div className="header-area bg-dark text-white text-center rounded p-3 mb-5">
+
+
                     <h2>Make a Programmer Team</h2>
                     <p>We will make a better website than ThemeForest</p>
                     <h2>Total Budget: 20 Million</h2>
