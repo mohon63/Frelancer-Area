@@ -1,7 +1,7 @@
 [
     {
         "key": "B01LZ2WZGH",
-        "name": "Rohima Khatun",
+        "name": "Ada Lovelace",
         "role": "Web Developer",
         "country": "Uganda",
         "salary": 10500,
@@ -19,7 +19,7 @@
     },
     {
         "key": "B03LZ2WZGH",
-        "name": "Sabana Akter",
+        "name": "Shohev M Lovelace",
         "role": "Paithon Developer",
         "country": "Canada",
         "salary": 18000,
@@ -28,7 +28,7 @@
     },
     {
         "key": "B04LZ2WZGH",
-        "name": "Capabuz Naimar",
+        "name": "Ken Thompson",
         "role": "C++ Developer",
         "country": "UE",
         "salary": 9500,
@@ -46,7 +46,7 @@
     },
     {
         "key": "B06LZ2WZGH",
-        "name": "Premik Sohel",
+        "name": "Donald Knuth",
         "role": "Web Developer",
         "country": "India",
         "salary": 11000,
@@ -64,7 +64,7 @@
     },
     {
         "key": "B08LZ2WZGH",
-        "name": "Rohima Khatun",
+        "name": "Tim Berners-Lee",
         "role": "Java Developer",
         "country": "UE",
         "salary": 30000,
@@ -73,7 +73,7 @@
     },
     {
         "key": "B09LZ2WZGH",
-        "name": "Rohima Khatun",
+        "name": "Bjarne Stroustrup",
         "role": "Web Developer",
         "country": "USA",
         "salary": 47500,

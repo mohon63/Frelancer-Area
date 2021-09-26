@@ -5,6 +5,7 @@ import Programmer from '../Programmer/Programmer';
 
 const Developer = () => {
     const [programmers, setProgrammers] = useState([]);
+
     // state declare for cart
     const [cart, setCart] = useState([]);
 
@@ -12,11 +13,13 @@ const Developer = () => {
         const newCart = [...cart, programmer]
         setCart(newCart);
     }
+
     useEffect(() => {
         fetch('./developerData.JSON')
             .then(res => res.json())
             .then(data => setProgrammers(data))
-    }, [])
+    }, []);
+
     return (
         <div>
             <div className="container">
@@ -33,6 +36,7 @@ const Developer = () => {
 
                         </div>
                     </div>
+
                     <div className="col-md-3">
                         <Cart
                             cart={cart}
