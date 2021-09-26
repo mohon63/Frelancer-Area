@@ -1,12 +1,12 @@
-# Project name: xyz
+# Project name: Frelancer Area
 
-Live site: xyz
+Live site: https://sharp-keller-7841a5.netlify.app/
 
-## Technoligies
+## Technologies
 
-Bootstrsap, react, vanilla css, react hooks
+Bootstrsap, react, vanilla css, React hooks
 
-### feature
+### Feature
 
 - Mohon
 - Bipul
