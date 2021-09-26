@@ -25,6 +25,7 @@ const Developer = () => {
                         <div className="row">
                             {
                                 programmers.map(programmer => <Programmer
+                                    key={programmer.key}
                                     handleAddProgrammer={handleAddProgrammer}
                                     programmer={programmer}
                                 ></Programmer>)
