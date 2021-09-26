@@ -19,12 +19,12 @@
     },
     {
         "key": "B03LZ2WZGH",
-        "name": "Belki Sumon",
+        "name": "Sabana Akter",
         "role": "Paithon Developer",
         "country": "Canada",
         "salary": 18000,
         "age": 51,
-        "img": "https://via.placeholder.com/600/92c952"
+        "img": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80"
     },
     {
         "key": "B04LZ2WZGH",
@@ -33,7 +33,7 @@
         "country": "UE",
         "salary": 9500,
         "age": 29,
-        "img": "https://via.placeholder.com/600/92c952"
+        "img": "https://images.unsplash.com/photo-1552058544-f2b08422138a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=399&q=80"
     },
     {
         "key": "B05LZ2WZGH",
@@ -42,7 +42,7 @@
         "country": "USA",
         "salary": 10500,
         "age": 26,
-        "img": "https://via.placeholder.com/600/92c952"
+        "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
     },
     {
         "key": "B06LZ2WZGH",
@@ -51,16 +51,16 @@
         "country": "India",
         "salary": 11000,
         "age": 31,
-        "img": "https://via.placeholder.com/600/92c952"
+        "img": "https://images.unsplash.com/photo-1545167622-3a6ac756afa4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=412&q=80"
     },
     {
         "key": "B07LZ2WZGH",
-        "name": "Android Khatun",
-        "role": "Hunda AK Jamal",
+        "name": "Hunda AK Jamal",
+        "role": "PHP Developer",
         "country": "Bangladesh",
         "salary": 17000,
         "age": 42,
-        "img": "https://via.placeholder.com/600/92c952"
+        "img": "https://images.unsplash.com/photo-1549068106-b024baf5062d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=387&q=80"
     },
     {
         "key": "B08LZ2WZGH",
@@ -69,7 +69,7 @@
         "country": "UE",
         "salary": 30000,
         "age": 27,
-        "img": "https://via.placeholder.com/600/92c952"
+        "img": "https://image.freepik.com/free-photo/happy-young-man-using-laptop-computer_171337-19581.jpg"
     },
     {
         "key": "B09LZ2WZGH",
@@ -78,6 +78,6 @@
         "country": "USA",
         "salary": 47500,
         "age": 44,
-        "img": "https://via.placeholder.com/600/92c952"
+        "img": "https://image.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg"
     }
 ]
